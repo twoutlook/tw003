@@ -1,9 +1,13 @@
 # tw003
+
+http://tw001.azurewebsites.net/
+
 GitHub desktop express ejb to Azure Web APP
 
 https://channel9.msdn.com/Blogs/Windows-Azure/Create-Nodejs-Azure-website-deploy-from-GitHub?ocid=player
 
-## Azure acount twcloudwebapp@outlook.com is ready
+## Azure acount is ready
+twcloudwebapp@outlook.com 
 
 ## Create github account twoutlook
 using twcloudwebapp@outlook.com
